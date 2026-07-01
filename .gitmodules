@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/camera-traps/camera-traps.r-universe.dev
 	branch = HEAD
+[submodule "R2camtrapdp"]
+	path = R2camtrapdp
+	url = https://github.com/kfukasawa37/R2camtrapdp
 [submodule "camtrapDensity"]
 	path = camtrapDensity
 	url = https://github.com/MarcusRowcliffe/camtrapDensity
