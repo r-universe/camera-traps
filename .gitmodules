@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/camera-traps/camera-traps.r-universe.dev
 	branch = HEAD
+[submodule "camtrapDensity"]
+	path = camtrapDensity
+	url = https://github.com/MarcusRowcliffe/camtrapDensity
+[submodule "camtrapR"]
+	path = camtrapR
+	url = https://github.com/jniedballa/camtrapR
+[submodule "camtrapReport"]
+	path = camtrapReport
+	url = https://github.com/spatialecology/camtrapReport
+[submodule "camtrapdp"]
+	path = camtrapdp
+	url = https://github.com/inbo/camtrapdp
+[submodule "camtraptor"]
+	path = camtraptor
+	url = https://github.com/inbo/camtraptor
